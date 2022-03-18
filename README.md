@@ -25,4 +25,5 @@ This repo is an extension of it, where same algorithms are used on a realtime da
                
 # Note:
 
-It is duly noted that, if the resolution of the external camera is very high (say, 720p or 1080p or higher), then there are high chances to get an error since there is an increase in the number of pixels, computation may or may not be possible.
+   1. It is duly noted that, if the resolution of the external camera is very high (say, 720p or 1080p or higher), then there are high chances to get an error.
+   2. This is because there is an increase in the number of pixels and so the computation may or may not be possible.
